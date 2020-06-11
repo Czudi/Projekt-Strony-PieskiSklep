@@ -6,3 +6,5 @@ Temat: Strona wizytówka sklepu z akcesoriami dla psów
 Grupa docelowa: posiadacze psów 
 
 Sekcje: Strona główna, Oferta, Galeria, Kontakt 
+
+Link do strony: https://czudi.github.io/Projekt-Strony-PieskiSklep/Projekt%20Sklep/
